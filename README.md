@@ -35,7 +35,8 @@ Go to the Support Center osTicket system URL and log into a user and create a ti
 </p>
 <p>
 
-  ![image](https://github.com/AtomSteve/osTicket-Ticket-Lifecycle-Examples/assets/147112183/261bdf83-ded9-465d-9883-825160e2f8e2)![image](https://github.com/AtomSteve/osTicket-Ticket-Lifecycle-Examples/assets/147112183/12a6f1bd-fcf3-4173-85e0-e40250bfcde3)![image](https://github.com/AtomSteve/osTicket-Ticket-Lifecycle-Examples/assets/147112183/98f64a56-fb39-44ff-a1df-c313111f6522)
+  ![image](https://github.com/AtomSteve/osTicket-Ticket-Lifecycle-Examples/assets/147112183/261bdf83-ded9-465d-9883-825160e2f8e2)![image](https://github.com/AtomSteve/osTicket-Ticket-Lifecycle-Examples/assets/147112183/12a6f1bd-fcf3-4173-85e0-e40250bfcde3)![image](https://github.com/AtomSteve/osTicket-Ticket-Lifecycle-Examples/assets/147112183/98f64a56-fb39-44ff-a1df-c313111f6522)![image]
+
 
 
 
@@ -43,20 +44,28 @@ Go to the Support Center osTicket system URL and log into a user and create a ti
 </p>
 <br />
 
-
+<h2>Triaging, and Solving Tickets</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open a ticket and change the Priority, Department, and SLA acording to needs of the Ticket.  
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![image](https://github.com/AtomSteve/osTicket-Ticket-Lifecycle-Examples/assets/147112183/1e047ae1-ca67-4cd4-ab78-5ae4e2080341)![image](https://github.com/AtomSteve/osTicket-Ticket-Lifecycle-Examples/assets/147112183/2173963f-5233-4ee6-bdb0-c98c0496f979)
+
+
+
+
 </p>
 <br />
+You can also add comments/updates on the Tickets progress so that the departments can see.  Once the Ticket is resolved click on Status -> click Resolved.  
+<p>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/AtomSteve/osTicket-Ticket-Lifecycle-Examples/assets/147112183/869e5fba-39f6-4ac5-bf35-05bcb349de9e)![image](https://github.com/AtomSteve/osTicket-Ticket-Lifecycle-Examples/assets/147112183/8cda400d-253a-4520-beda-89bf0cd389f9)
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Do this with every ticket accordingly until each ticket is assigned and solved.  
